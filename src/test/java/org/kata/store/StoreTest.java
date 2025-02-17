@@ -1,9 +1,7 @@
-package org.kata.fizzbuzz;
+package org.kata.store;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import org.kata.store.IStore;
-import org.kata.store.AmazonStore;
 import org.kata.store.service.OrderService;
 
 import static org.mockito.Mockito.*;
