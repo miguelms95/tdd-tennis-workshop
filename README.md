@@ -13,4 +13,4 @@
 9. **Código más simple y limpio** – Evita escribir código innecesario al centrarse solo en lo que es probado.
 10. **Fomenta el pensamiento crítico** – Obliga a definir bien los requisitos antes de escribir código.
 
-Presentación: https://docs.google.com/presentation/d/1KEhamjIwZJ6fchKQoUgOi29WZ7O3QmGUGnfKj2Dcj8Y/edit#slide=id.g2ea2645b548d4de3_342
+Presentación: https://docs.google.com/presentation/d/1SbN3KBT1UqBDMAiUAsuHLUwjVziWrPthUheKYoFK3mE/edit?usp=sharing
